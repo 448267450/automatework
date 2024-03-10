@@ -5,4 +5,4 @@
 3. playwright codegen
 4. login to https://admin-demo.nopcommerce.com
 5. go to Discount Tab and click "New"
-
+6. Stop recording and copy code and paste in the main.py file
